@@ -1,4 +1,7 @@
 # Coding Projects
+ML Projects:
+- OKCupid project demonstrates the use of machine learning techniques on a messy dataset of to predict star sign, important indicator of match suitability
+
 Python folder contains projects from Codecademy:
 - Abruptly Goblins was an exercise in using dictionaries to schedule a fictional game night
 - Coded Correspondance was an exercise testing string methods to perform basic decryption
