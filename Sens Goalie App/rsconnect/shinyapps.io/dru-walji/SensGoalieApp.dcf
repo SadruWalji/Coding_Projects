@@ -1,0 +1,13 @@
+name: SensGoalieApp
+title:
+username: dru-walji
+account: dru-walji
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16730893
+bundleId: 11640378
+url: https://dru-walji.shinyapps.io/SensGoalieApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: goalie_processing.R
